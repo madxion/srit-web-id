@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="74.946587mm"
+   height="20.180429mm"
+   viewBox="0 0 74.946587 20.18043"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-234.89617,-19.118624)">
+    <path
+       id="path92"
+       style="fill:#ffffff;fill-opacity:1;stroke:#2654c4;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 240.70701,20.618625 c -1.37081,0 -2.42551,0.342438 -3.16363,1.027844 -0.76449,0.685406 -1.14722,1.647644 -1.14722,2.886645 0,1.238994 0.3693,2.20124 1.10743,2.886646 0.73813,0.659044 1.80624,0.988574 3.20342,0.988574 h 6.28695 6.27869 6.28747 c 1.39717,0 2.46478,-0.32953 3.20291,-0.988574 0.73813,-0.685406 1.10742,-1.647651 1.10742,-2.886646 0,-1.239 -0.38272,-2.201239 -1.14721,-2.886645 -0.73813,-0.685406 -1.79231,-1.027844 -3.16312,-1.027844 h -6.28747 -6.27869 z" />
+    <g
+       id="g94"
+       transform="translate(69.404292,3.0871961)"
+       style="fill:#ffffff;fill-opacity:1;stroke:#2654c4;stroke-width:3;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         d="m 169.34474,34.711859 v -7.789784 h 6.28728 c 1.39717,0 2.46494,0.329414 3.20307,0.988459 0.73812,0.685406 1.1073,1.647788 1.1073,2.886783 0,1.239 -0.38243,2.201061 -1.14692,2.886467 -0.73812,0.685406 -1.79264,1.028075 -3.16345,1.028075 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#2654c4;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path93" />
+      <path
+         d="m 192.1133,34.711859 v -7.789784 h -6.28728 c -1.39717,0 -2.46494,0.329414 -3.20307,0.988459 -0.73812,0.685406 -1.1073,1.647788 -1.1073,2.886783 0,1.239 0.38243,2.201061 1.14692,2.886467 0.73812,0.685406 1.79264,1.028075 3.16345,1.028075 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#2654c4;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path94" />
+    </g>
+    <circle
+       style="fill:#2654c4;fill-opacity:1;stroke:none;stroke-width:1.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="circle94"
+       cx="250.13332"
+       cy="24.513483"
+       r="1.5801433" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#2654c4;stroke-width:3;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect94"
+       width="6.4539399"
+       height="5.1888165"
+       x="246.90634"
+       y="28.408335"
+       ry="2.5944083" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.3084px;font-family:Gedrik;-inkscape-font-specification:'Gedrik Bold';text-align:start;letter-spacing:2.43935px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#2654c4;fill-opacity:1;stroke:none;stroke-width:4.13435;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="269.75696"
+       y="38.229191"
+       id="text94"><tspan
+         id="tspan94"
+         style="stroke:none;stroke-width:4.13435"
+         x="269.75696"
+         y="38.229191">SRIT</tspan></text>
+  </g>
+</svg>
